@@ -1,0 +1,21 @@
+.bar {
+	margin: 4px 2px 2px 2px;
+	padding: 0 4px 0 0;
+	text-align: center;
+	border-radius: 20px;
+}
+
+.container {
+	background-color: #F3DE9D;
+}
+
+.b {
+	position: relative;
+	border-radius: 10px;
+}
+
+.subject {
+	border-radius: 10px;
+	color: white;
+	/*max-width: 90px;*/
+}

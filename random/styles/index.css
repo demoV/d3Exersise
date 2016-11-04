@@ -1,0 +1,12 @@
+.number {
+	stroke: steelblue;
+	fill:none;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
+.container {
+
+}
